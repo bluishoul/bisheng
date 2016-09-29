@@ -1,5 +1,5 @@
 {
-  "name": "bisheng",
+  "name": "coding-bisheng",
   "version": "0.12.6",
   "description": "Transform Markdown files into a SPA website using React.",
   "bin": {
@@ -41,6 +41,7 @@
     "dora-plugin-webpack": "^0.8.1",
     "exist.js": "^0.3.0",
     "gh-pages": "^0.11.0",
+    "highlight.js": "^9.7.0",
     "history": "^2.1.1",
     "jsonml-to-react-component": "^0.2.2",
     "jsonml.js": "^0.1.0",
@@ -50,7 +51,6 @@
     "node-prismjs": "^0.1.0",
     "nprogress": "^0.2.0",
     "nunjucks": "^2.4.2",
-    "prismjs": "^1.4.1",
     "ramda": "^0.22.0",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
